@@ -1,0 +1,57 @@
+
+.wrapper {
+    background-color: #4aaaf;
+    font-family: cursive;
+    
+}
+
+body {
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+
+
+.letterChoices {
+    list-style-type: none;
+    display: inline;
+    width: 100%;
+    
+}
+
+
+#list {
+    padding: 5px, 5px, 5px, 5px;
+    background-color: red;
+    width: 5%;
+    font-size: 18px;
+    display: inline-block;
+    margin-top:5px;
+    border-style: double;
+    opacity: 2px;
+}
+#list:hover{
+    background-color: bisque;
+}
+
+
+
+
+
+
+
+
+#music {
+    
+}
+
+/*This define the current look of the page*/
+.container {
+    
+}
+
+This would be the design of the sty
+#words {
+    
+}
